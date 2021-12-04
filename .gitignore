@@ -46,4 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#ignore the folder called build anywhere, but not files called build
+build/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux
